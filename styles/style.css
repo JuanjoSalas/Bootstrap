@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+h1 {
+    margin: 20px 30% 0;
+    color: #FA7070;
+}
+body {
+    background-color: #C6EBC5;
+}
